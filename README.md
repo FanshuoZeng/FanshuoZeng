@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I am currently an undergraduate student at the School of Computer Science, Central South University. I have been admitted as a 2025 master's student at the Institute of Automation, Chinese Academy of Sciences.
+- 🌱 I am currently an undergraduate student at [Central South University](https://www.csu.edu.cn/), and I have been admitted as a 2025 master's student at the [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/).
 
 <!--
 **FanshuoZeng/FanshuoZeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
