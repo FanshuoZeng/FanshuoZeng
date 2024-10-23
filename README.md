@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I am currently an undergraduate student at [Central South University](https://www.csu.edu.cn/), and I have been admitted as a 2025 master's student at the [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/).
+- 🌱 I am currently an undergraduate student at [Central South University](https://www.csu.edu.cn/).
+- 🌴 I have been admitted as a 2025 master's student at the [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/).
 - 🔭 My current research interests include LLM/MLLM, etc.
 - 📫 How to reach me: [zengfanshuo2025@ia.ac.cn](zengfanshuo2025@ia.ac.cn)
 
