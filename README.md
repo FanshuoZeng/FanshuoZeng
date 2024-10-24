@@ -1,7 +1,8 @@
 ## Hi there 👋
-- <a href="https://www.csu.edu.cn/"><img src="https://github.com/user-attachments/assets/52c7ce46-a6a8-4a72-af94-55c248c1620b" width="20" /></a> I am currently an undergraduate student at [Central South University](https://www.csu.edu.cn/).
 
-- 🌴 I have been admitted as a 2025 master's student at the [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/).
+
+- <a href="https://www.ucas.ac.cn/"><img src="https://github.com/user-attachments/assets/f5892e59-60b1-4993-a90f-a0a903d3d849" width="25" /></a><a href="http://www.ia.cas.cn/"><img src="https://github.com/user-attachments/assets/37f893f7-daa7-4877-8f2a-a73d5cd1dd42" width="25" /></a> I have been admitted as a 2025 master's student at the Institute of Automation, Chinese Academy of Sciences.
+- <a href="https://www.csu.edu.cn/"><img src="https://github.com/user-attachments/assets/52c7ce46-a6a8-4a72-af94-55c248c1620b" width="25" /></a> I am currently a 2021 undergraduate student at the School of Computer Science, Central South University.
 - 🔭 My current research interests include LLM/MLLM, etc.
 - 📫 How to reach me: [zengfanshuo2025@ia.ac.cn](zengfanshuo2025@ia.ac.cn)
 
